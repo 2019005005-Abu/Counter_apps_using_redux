@@ -1,0 +1,15 @@
+.increment{
+  width: 100px;
+  border: 2px solid red;
+  background-color: blue;
+  color: white;
+  padding: 10px 20px;
+}
+
+.decrement{
+    width: 100px;
+    border: 2px solid red;
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+}
